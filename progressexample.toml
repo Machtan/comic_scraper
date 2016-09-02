@@ -1,0 +1,17 @@
+# An example of how the progress will be stored
+# Scraping-related
+[image_identifier] # TODO Find a way to represent this in a meaningful parsable way
+
+[linker_identifier]
+
+# Progress-related
+lastindex = 1 # auto-numbering of images
+lastimages = ["http://www.egscomics.com/comics/20020122_lk80.gif"] # The urls of the last images. Used to ensure that the 'latest' page isn't fetched twice.
+lastpage = "http://www.egscomics.com/index.php?id=2"
+
+#domain = "http://www.egscomics.com" # What to prepend the pages (using urljoin)
+#pages = [ # Which pages were fetched. 
+#	#The images are numbered according to the indices of this list
+#	"/index.php?id=1",
+#	"/index.php?id=2",
+#]

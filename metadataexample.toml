@@ -1,0 +1,10 @@
+# The example of how a metadata file inside a comic will look
+# Basically the spec file without the fetching-related stuff
+# Mandatory
+title 		= "El Goonish Shive"
+authors		= ["Dan Shive"]
+# Optional
+descriptionfile = "egsdesc.txt" # Should probably be first in the archive
+coverfile 		= "egscover.jpg" # Preceding the actual pages in the archive
+homepage		= "http://www.egscomics.com"
+tags 			= ["magic", "aliens", "gender-bender", "kemomimi", "genderfluid", "shoujo-ai"]

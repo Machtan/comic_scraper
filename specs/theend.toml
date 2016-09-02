@@ -1,0 +1,8 @@
+# Mandatory
+title 		= "The End"
+authors		= ["Ran Brown", "Cory Brown"]
+startpage 	= "http://www.endcomic.com/comic/book-one-cover/"
+nextpage 	= "http://www.endcomic.com/comic/ch1-00/"
+# Optional
+homepage = "http://http://www.endcomic.com"
+reconnect = true

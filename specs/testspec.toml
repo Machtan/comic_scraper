@@ -1,0 +1,10 @@
+# Mandatory
+title 		= "El Goonish Shive"
+authors		= ["Dan Shive"]
+startpage 	= "http://www.egscomics.com/index.php?id=1"
+nextpage 	= "http://www.egscomics.com/index.php?id=2"
+# Optional
+descriptionfile = "egsdesc.txt"
+coverfile 		= "egscover.jpg"
+homepage		= "http://www.egscomics.com"
+tags 			= ["magic", "aliens", "gender-bender", "kemomimi", "genderfluid", "shoujo-ai"]
